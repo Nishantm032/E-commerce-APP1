@@ -13,7 +13,7 @@ const testimonials = [
   },
   {
     name: 'Laksh',
-    feedback: 'We hired them for our anniversary party and it was beyond expectations. Loved their work!',
+    feedback: 'We hired them for our anniversary party and it was beyond expectations. Loved their work!!',
     image: 'https://i.pravatar.cc/150?img=15',
   },
 ];
