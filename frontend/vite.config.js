@@ -7,10 +7,10 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: './', // This is the key fix for image paths
+  base: './', 
   build: {
     outDir: 'dist',
-    assetsDir: 'assets', // Organizes assets in a dedicated folder
+    assetsDir: 'assets', 
   },
   server: {
     port: 3000,
