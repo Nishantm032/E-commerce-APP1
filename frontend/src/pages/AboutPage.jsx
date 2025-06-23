@@ -1,0 +1,18 @@
+import React from 'react';
+import AboutUs from '../components/Aboutus';
+import Footer from '../components/Footer';
+import HappyCustomers from '../components/HappyCustomers';
+import StatsSection from '../components/statsSection';
+
+const AboutPage = () => {
+  return (
+    <div>
+      <AboutUs />
+      <HappyCustomers />
+      <StatsSection />
+      <Footer />
+    </div>
+  );
+};
+
+export default AboutPage;
